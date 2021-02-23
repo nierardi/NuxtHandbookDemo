@@ -1,20 +1,16 @@
 # NuxtHandbook
 
-## Build Setup
+A very simple web app built with Vue and Nuxt to show the properties of certain chemicals. This is a demo and feasibility test of using Vue and Nuxt to build this into a production site for a client.
+
+### Build
 
 ```bash
-# install dependencies
+# Install dependencies, build, and start server
 $ npm install
-
-# serve with hot reload at localhost:3000
-$ npm run dev
-
-# build for production and launch server
 $ npm run build
 $ npm run start
-
-# generate static project
-$ npm run generate
 ```
 
-For detailed explanation on how things work, check out [Nuxt.js docs](https://nuxtjs.org).
+### Screenshot
+
+![](screenshot.png)
